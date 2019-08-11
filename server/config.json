@@ -1,0 +1,9 @@
+{
+  "coinbase" : {
+    "apiKey" : "API_KEY",
+    "apiSecret" : "API_SECRET"
+  },
+  "recaptcha" : {
+    "secret": "RECAPTCHA_SECRET"
+  }
+}
